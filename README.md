@@ -1,1 +1,5 @@
-# exercise-tracker for people who do exercises
+# Exercise Tracker REST API
+
+#### A microservice project, part of Free Code Camp's curriculum
+
+
